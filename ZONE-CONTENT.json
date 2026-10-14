@@ -1,0 +1,54 @@
+{
+  "airport": "Cảng hàng không quốc tế Cát Bi",
+  "source": "Nội dung địa bàn do người dùng cung cấp cho bản Cát Bi",
+  "groups": [
+    {
+      "id": "prohibited-and-restricted",
+      "title_vi": "20 xã, phường, đặc khu có địa giới hành chính thuộc phạm vi khu vực cấm bay và hạn chế bay",
+      "title_en": "20 administrative areas with territory within prohibited and restricted flight zones",
+      "areas": [
+        {"type": "Phường", "type_en": "Ward", "name": "Hải An"},
+        {"type": "Phường", "type_en": "Ward", "name": "Đông Hải"},
+        {"type": "Phường", "type_en": "Ward", "name": "Ngô Quyền"},
+        {"type": "Phường", "type_en": "Ward", "name": "Gia Viên"},
+        {"type": "Phường", "type_en": "Ward", "name": "Thủy Nguyên"},
+        {"type": "Phường", "type_en": "Ward", "name": "Lê Chân"},
+        {"type": "Phường", "type_en": "Ward", "name": "An Biên"},
+        {"type": "Phường", "type_en": "Ward", "name": "Kiến An"},
+        {"type": "Phường", "type_en": "Ward", "name": "Phù Liễn"},
+        {"type": "Phường", "type_en": "Ward", "name": "An Hải"},
+        {"type": "Phường", "type_en": "Ward", "name": "An Dương"},
+        {"type": "Phường", "type_en": "Ward", "name": "Hưng Đạo"},
+        {"type": "Phường", "type_en": "Ward", "name": "Dương Kinh"},
+        {"type": "Xã", "type_en": "Commune", "name": "An Lão"},
+        {"type": "Xã", "type_en": "Commune", "name": "An Khánh"},
+        {"type": "Xã", "type_en": "Commune", "name": "An Hưng"},
+        {"type": "Xã", "type_en": "Commune", "name": "Nghi Dương"},
+        {"type": "Xã", "type_en": "Commune", "name": "Kiến Thụy"},
+        {"type": "Xã", "type_en": "Commune", "name": "Kiến Minh"},
+        {"type": "Đặc khu", "type_en": "Special Zone", "name": "Cát Hải"}
+      ]
+    },
+    {
+      "id": "restricted",
+      "title_vi": "10 xã, phường thuộc khu vực hạn chế bay",
+      "title_en": "10 wards and communes within restricted flight zones",
+      "areas": [
+        {"type": "Phường", "type_en": "Ward", "name": "Nam Triệu"},
+        {"type": "Phường", "type_en": "Ward", "name": "Hồng Bàng"},
+        {"type": "Phường", "type_en": "Ward", "name": "Nam Đồ Sơn"},
+        {"type": "Xã", "type_en": "Commune", "name": "An Quang"},
+        {"type": "Xã", "type_en": "Commune", "name": "Quyết Thắng"},
+        {"type": "Xã", "type_en": "Commune", "name": "Tiên Lãng"},
+        {"type": "Xã", "type_en": "Commune", "name": "Tân Minh"},
+        {"type": "Xã", "type_en": "Commune", "name": "Tiên Minh"},
+        {"type": "Xã", "type_en": "Commune", "name": "Kiến Hưng"},
+        {"type": "Xã", "type_en": "Commune", "name": "Kiến Hải"}
+      ]
+    }
+  ],
+  "hotlines": [
+    {"display": "0225.3921343", "href": "tel:02253921343"},
+    {"display": "069.2785918", "href": "tel:0692785918"}
+  ]
+}

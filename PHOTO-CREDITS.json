@@ -1,0 +1,62 @@
+{
+  "airport": "Cảng hàng không quốc tế Cát Bi",
+  "publication": "LOCAL ONLY — do not upload without explicit user approval",
+  "selection_note": "Replaced dark, hazy, construction-foreground and watermarked photos after user complaint. Kept only bright, sharp Cat Bi images inspected visually.",
+  "images": [
+    {
+      "file": "catbi-apron.jpg",
+      "url": "https://webstorage-api.acv.vn/acv-cms/uploads/LHL_01287_0fd5533479.jpg",
+      "source_page": "https://acv.vn/",
+      "author": "ACV — photo labelled CHKQT Cát Bi on acv.vn",
+      "license": "Official ACV website image; public reuse permission not confirmed — local preview only",
+      "description": "Airside apron and Cat Bi terminal with aircraft",
+      "size": [1920, 1080],
+      "use": "Hero and section photos"
+    },
+    {
+      "file": "catbi-checkin.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Check-in_Catbi.jpg/1920px-Check-in_Catbi.jpg",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Check-in_Catbi.jpg",
+      "author": "Challenger2016",
+      "license": "CC BY-SA 4.0",
+      "description": "Check-in hall at Cat Bi",
+      "size": [1920, 1280]
+    },
+    {
+      "file": "catbi-hall.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/S%E1%BA%A3nh_%C4%91i_nh%C3%A0_ga_h%C3%A0nh_kh%C3%A1ch.jpg",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Sảnh_đi_nhà_ga_hành_khách.jpg",
+      "author": "Commons",
+      "license": "see Commons file page",
+      "description": "Covered passenger drop-off at Cat Bi terminal",
+      "size": [900, 600]
+    },
+    {
+      "file": "catbi-aircraft.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:VietJet_Air_VN-A649_run_VJ7078(Vietnam_Haiphong_Cat_Bi_International_Airport_to_Macau_International_Airport)_10-09-2026(3).jpg",
+      "source_page": "https://commons.wikimedia.org/wiki/File:VietJet_Air_VN-A649_run_VJ7078(Vietnam_Haiphong_Cat_Bi_International_Airport_to_Macau_International_Airport)_10-09-2026(3).jpg",
+      "license": "see Commons file page",
+      "description": "VietJet aircraft at Cat Bi, September 2026",
+      "size": [1920, 1440]
+    },
+    {
+      "file": "catbi-profile.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:VietJet_Air_VN-A523_run_VJ7079(Macau_International_Airport_to_Vietnam_Haiphong_Cat_Bi_International_Airport)_22-06-2026(2).jpg",
+      "source_page": "https://commons.wikimedia.org/wiki/File:VietJet_Air_VN-A523_run_VJ7079(Macau_International_Airport_to_Vietnam_Haiphong_Cat_Bi_International_Airport)_22-06-2026(2).jpg",
+      "license": "see Commons file page",
+      "description": "VietJet aircraft side profile at Cat Bi, June 2026",
+      "size": [1920, 1440]
+    }
+  ],
+  "rejected_from_display": [
+    "catbi-terminal.jpg — construction dirt in foreground, overcast",
+    "catbi-panorama.jpg — dusk/dark",
+    "catbi-interior.jpg — crowded, compressed, dimmer",
+    "catbi-departure.jpg — construction dirt in foreground",
+    "catbi-arrivals.jpg — older, darker foreground"
+  ],
+  "generic_uav_images": [
+    {"file": "flycam-air.jpg", "source": "Inherited generic UAV illustration; not a Cat Bi airport photograph"},
+    {"file": "flycam-kit.jpg", "source": "Inherited generic UAV illustration; not a Cat Bi airport photograph"}
+  ]
+}
