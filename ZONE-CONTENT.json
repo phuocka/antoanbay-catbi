@@ -1,32 +1,237 @@
 {
   "airport": "Cảng hàng không quốc tế Cát Bi",
   "source": "Nội dung địa bàn do người dùng cung cấp cho bản Cát Bi",
+  "phone_source": "Cac_xa_phuong_dac_khu_khu_vuc_cam_bay_han_che_bay.docx — số ĐT Công an ĐP",
   "groups": [
     {
       "id": "prohibited-and-restricted",
       "title_vi": "20 xã, phường, đặc khu có địa giới hành chính thuộc phạm vi khu vực cấm bay và hạn chế bay",
       "title_en": "20 administrative areas with territory within prohibited and restricted flight zones",
       "areas": [
-        {"type": "Phường", "type_en": "Ward", "name": "Hải An"},
-        {"type": "Phường", "type_en": "Ward", "name": "Đông Hải"},
-        {"type": "Phường", "type_en": "Ward", "name": "Ngô Quyền"},
-        {"type": "Phường", "type_en": "Ward", "name": "Gia Viên"},
-        {"type": "Phường", "type_en": "Ward", "name": "Thủy Nguyên"},
-        {"type": "Phường", "type_en": "Ward", "name": "Lê Chân"},
-        {"type": "Phường", "type_en": "Ward", "name": "An Biên"},
-        {"type": "Phường", "type_en": "Ward", "name": "Kiến An"},
-        {"type": "Phường", "type_en": "Ward", "name": "Phù Liễn"},
-        {"type": "Phường", "type_en": "Ward", "name": "An Hải"},
-        {"type": "Phường", "type_en": "Ward", "name": "An Dương"},
-        {"type": "Phường", "type_en": "Ward", "name": "Hưng Đạo"},
-        {"type": "Phường", "type_en": "Ward", "name": "Dương Kinh"},
-        {"type": "Xã", "type_en": "Commune", "name": "An Lão"},
-        {"type": "Xã", "type_en": "Commune", "name": "An Khánh"},
-        {"type": "Xã", "type_en": "Commune", "name": "An Hưng"},
-        {"type": "Xã", "type_en": "Commune", "name": "Nghi Dương"},
-        {"type": "Xã", "type_en": "Commune", "name": "Kiến Thụy"},
-        {"type": "Xã", "type_en": "Commune", "name": "Kiến Minh"},
-        {"type": "Đặc khu", "type_en": "Special Zone", "name": "Cát Hải"}
+        {
+          "type": "Phường",
+          "type_en": "Ward",
+          "name": "Hải An",
+          "phones": [
+            {
+              "display": "0225.3744480",
+              "href": "tel:02253744480"
+            }
+          ]
+        },
+        {
+          "type": "Phường",
+          "type_en": "Ward",
+          "name": "Đông Hải",
+          "phones": [
+            {
+              "display": "0225.3979872",
+              "href": "tel:02253979872"
+            }
+          ]
+        },
+        {
+          "type": "Phường",
+          "type_en": "Ward",
+          "name": "Ngô Quyền",
+          "phones": [
+            {
+              "display": "0225.3760555",
+              "href": "tel:02253760555"
+            }
+          ]
+        },
+        {
+          "type": "Phường",
+          "type_en": "Ward",
+          "name": "Gia Viên",
+          "phones": [
+            {
+              "display": "0225.3847911",
+              "href": "tel:02253847911"
+            }
+          ]
+        },
+        {
+          "type": "Phường",
+          "type_en": "Ward",
+          "name": "Thủy Nguyên",
+          "phones": [
+            {
+              "display": "0225.8830674",
+              "href": "tel:02258830674"
+            }
+          ]
+        },
+        {
+          "type": "Phường",
+          "type_en": "Ward",
+          "name": "Lê Chân",
+          "phones": [
+            {
+              "display": "0225.3764814",
+              "href": "tel:02253764814"
+            }
+          ]
+        },
+        {
+          "type": "Phường",
+          "type_en": "Ward",
+          "name": "An Biên",
+          "phones": [
+            {
+              "display": "0225.3742718",
+              "href": "tel:02253742718"
+            }
+          ]
+        },
+        {
+          "type": "Phường",
+          "type_en": "Ward",
+          "name": "Kiến An",
+          "phones": [
+            {
+              "display": "0225.3876505",
+              "href": "tel:02253876505"
+            }
+          ]
+        },
+        {
+          "type": "Phường",
+          "type_en": "Ward",
+          "name": "Phù Liễn",
+          "phones": [
+            {
+              "display": "0225.3876018",
+              "href": "tel:02253876018"
+            }
+          ]
+        },
+        {
+          "type": "Phường",
+          "type_en": "Ward",
+          "name": "An Hải",
+          "phones": [
+            {
+              "display": "0225.8830325",
+              "href": "tel:02258830325"
+            }
+          ]
+        },
+        {
+          "type": "Phường",
+          "type_en": "Ward",
+          "name": "An Dương",
+          "phones": [
+            {
+              "display": "0225.3250186",
+              "href": "tel:02253250186"
+            }
+          ]
+        },
+        {
+          "type": "Phường",
+          "type_en": "Ward",
+          "name": "Hưng Đạo",
+          "phones": [
+            {
+              "display": "0225.3925128",
+              "href": "tel:02253925128"
+            }
+          ]
+        },
+        {
+          "type": "Phường",
+          "type_en": "Ward",
+          "name": "Dương Kinh",
+          "phones": [
+            {
+              "display": "0225.3926003",
+              "href": "tel:02253926003"
+            }
+          ]
+        },
+        {
+          "type": "Xã",
+          "type_en": "Commune",
+          "name": "An Lão",
+          "phones": [
+            {
+              "display": "02253.872296",
+              "href": "tel:02253872296"
+            }
+          ]
+        },
+        {
+          "type": "Xã",
+          "type_en": "Commune",
+          "name": "An Khánh",
+          "phones": [
+            {
+              "display": "02258.831571",
+              "href": "tel:02258831571"
+            }
+          ]
+        },
+        {
+          "type": "Xã",
+          "type_en": "Commune",
+          "name": "An Hưng",
+          "phones": [
+            {
+              "display": "02258.831750",
+              "href": "tel:02258831750"
+            }
+          ]
+        },
+        {
+          "type": "Xã",
+          "type_en": "Commune",
+          "name": "Nghi Dương",
+          "phones": [
+            {
+              "display": "02258.832530",
+              "href": "tel:02258832530"
+            }
+          ]
+        },
+        {
+          "type": "Xã",
+          "type_en": "Commune",
+          "name": "Kiến Thụy",
+          "phones": [
+            {
+              "display": "02253.881339",
+              "href": "tel:02253881339"
+            }
+          ]
+        },
+        {
+          "type": "Xã",
+          "type_en": "Commune",
+          "name": "Kiến Minh",
+          "phones": [
+            {
+              "display": "02258.830623",
+              "href": "tel:02258830623"
+            }
+          ]
+        },
+        {
+          "type": "Đặc khu",
+          "type_en": "Special Zone",
+          "name": "Cát Hải",
+          "phones": [
+            {
+              "display": "02253.888240",
+              "href": "tel:02253888240"
+            },
+            {
+              "display": "02253.831457",
+              "href": "tel:02253831457"
+            }
+          ]
+        }
       ]
     },
     {
@@ -34,21 +239,127 @@
       "title_vi": "10 xã, phường thuộc khu vực hạn chế bay",
       "title_en": "10 wards and communes within restricted flight zones",
       "areas": [
-        {"type": "Phường", "type_en": "Ward", "name": "Nam Triệu"},
-        {"type": "Phường", "type_en": "Ward", "name": "Hồng Bàng"},
-        {"type": "Phường", "type_en": "Ward", "name": "Nam Đồ Sơn"},
-        {"type": "Xã", "type_en": "Commune", "name": "An Quang"},
-        {"type": "Xã", "type_en": "Commune", "name": "Quyết Thắng"},
-        {"type": "Xã", "type_en": "Commune", "name": "Tiên Lãng"},
-        {"type": "Xã", "type_en": "Commune", "name": "Tân Minh"},
-        {"type": "Xã", "type_en": "Commune", "name": "Tiên Minh"},
-        {"type": "Xã", "type_en": "Commune", "name": "Kiến Hưng"},
-        {"type": "Xã", "type_en": "Commune", "name": "Kiến Hải"}
+        {
+          "type": "Phường",
+          "type_en": "Ward",
+          "name": "Nam Triệu",
+          "phones": [
+            {
+              "display": "0225.8831724",
+              "href": "tel:02258831724"
+            }
+          ]
+        },
+        {
+          "type": "Phường",
+          "type_en": "Ward",
+          "name": "Hồng Bàng",
+          "phones": [
+            {
+              "display": "0225.3838856",
+              "href": "tel:02253838856"
+            }
+          ]
+        },
+        {
+          "type": "Phường",
+          "type_en": "Ward",
+          "name": "Nam Đồ Sơn",
+          "phones": [
+            {
+              "display": "0225.3561019",
+              "href": "tel:02253561019"
+            }
+          ]
+        },
+        {
+          "type": "Xã",
+          "type_en": "Commune",
+          "name": "An Quang",
+          "phones": [
+            {
+              "display": "02258.831867",
+              "href": "tel:02258831867"
+            }
+          ]
+        },
+        {
+          "type": "Xã",
+          "type_en": "Commune",
+          "name": "Quyết Thắng",
+          "phones": [
+            {
+              "display": "02258.832063",
+              "href": "tel:02258832063"
+            }
+          ]
+        },
+        {
+          "type": "Xã",
+          "type_en": "Commune",
+          "name": "Tiên Lãng",
+          "phones": [
+            {
+              "display": "02253.883311",
+              "href": "tel:02253883311"
+            }
+          ]
+        },
+        {
+          "type": "Xã",
+          "type_en": "Commune",
+          "name": "Tân Minh",
+          "phones": [
+            {
+              "display": "02203.517555",
+              "href": "tel:02203517555"
+            }
+          ]
+        },
+        {
+          "type": "Xã",
+          "type_en": "Commune",
+          "name": "Tiên Minh",
+          "phones": [
+            {
+              "display": "02258.832864",
+              "href": "tel:02258832864"
+            }
+          ]
+        },
+        {
+          "type": "Xã",
+          "type_en": "Commune",
+          "name": "Kiến Hưng",
+          "phones": [
+            {
+              "display": "02258.830530",
+              "href": "tel:02258830530"
+            }
+          ]
+        },
+        {
+          "type": "Xã",
+          "type_en": "Commune",
+          "name": "Kiến Hải",
+          "phones": [
+            {
+              "display": "02258.831610",
+              "href": "tel:02258831610"
+            }
+          ]
+        }
       ]
     }
   ],
   "hotlines": [
-    {"display": "0225.3921343", "href": "tel:02253921343"},
-    {"display": "069.2785918", "href": "tel:0692785918"}
+    {
+      "display": "0225.3921343",
+      "href": "tel:02253921343"
+    },
+    {
+      "display": "069.2785918",
+      "href": "tel:0692785918"
+    }
   ]
 }

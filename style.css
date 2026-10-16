@@ -170,6 +170,6 @@ header .header-phone{flex-shrink:0}
 /* Cat Bi: both unit hotlines, kept readable on all viewports. */
 .header-hotlines{display:grid;gap:2px}.header-phone>span{display:block}.header-hotlines strong{margin-left:0}
 .contact-hotlines{display:grid;gap:6px}.contact-hotlines .phone{min-width:0}
-.zone-group summary{gap:14px;align-items:flex-start}.zone-group summary>span:first-child{min-width:0;overflow-wrap:break-word}.zone-group .plus{flex-shrink:0}.zone-list li{break-inside:avoid}
+.zone-group summary{gap:14px;align-items:flex-start}.zone-group summary>span:first-child{min-width:0;overflow-wrap:break-word}.zone-group .plus{flex-shrink:0}.zone-list li{break-inside:avoid}.zone-phone{white-space:nowrap;font-variant-numeric:tabular-nums;text-decoration:underline;text-underline-offset:2px}.zone-phones{display:inline-flex;flex-wrap:wrap;gap:0 10px}
 @media(min-width:1000px){.zone-list{columns:2;column-gap:32px}}
 @media(max-width:700px){header .brand:has(.agency-name){flex:1 1 100%}.header-phone{width:100%;display:flex;align-items:center;justify-content:space-between;gap:12px}.header-hotlines{display:flex;flex-wrap:wrap;justify-content:flex-end;gap:6px 14px}.header-phone strong{font-size:15px}.header-phone>span{font-size:13px}.mobile-bar{display:grid;grid-template-columns:1.05fr 1fr 1fr}.mobile-bar a{min-width:0;padding:14px 6px;font-size:14px;line-height:1.4}.mobile-bar a:first-child{font-size:13px}.mobile-bar a[href^="tel:"]{background:#DA251D;color:#FFCD00}.content .phone{font-size:clamp(25px,7vw,34px)}}
